@@ -1,4 +1,2 @@
-This is to understand the GIT branches.
-This is to understand the GIT branches.this is second line.
 I am trying to run the reset commands
 I am trying to run the reset commands to roll back the changes from local, index/staging & comitted area and finally from the remote.
